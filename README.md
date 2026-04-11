@@ -1,6 +1,8 @@
 # Modelo de predicción de *churn* en clientes de un gimnasio
 ## Objetivo
 Uno de los problemas más comunes que enfrentan los gimnasios y otros servicios es la pérdida de clientes. Para combatir la cancelación en el gimnasio Model Fitness, el presente proyecto busca desarrollar una estrategia de retención de clientes mediante el análisis de los perfiles de clientes. 
+## Herramientas utilizadas
+**Python (Pandas, Seaborn, Matplotlib, Sklearn) | Modelos predictivos**
 ## Metodología
 ### Análisis exploratorio de datos (EDA)
 Visualicé y limpié los datos, verificando que no hubiera datos vacíos. Además, tracé histogramas de barras de las características demográficas y de uso para las los usuarios que cancelaron y para los que se quedaron. Aquí pude observar, por ejemplo, que los clientes con contratos extensos (6 y 12 meses) tienen más probabilidad de quedarse.
